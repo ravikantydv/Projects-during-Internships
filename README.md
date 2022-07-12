@@ -1,6 +1,6 @@
 # Live-Projects-of-Industries
-This is the live Project named "Wine Quality Prediction " Which I did during my Internship period at Corizo Company where I applied machine learning 
-algorithms or models like Random Forest, Logistic Regression, Support vector machine etc.. for the Wine quality prediction.
+These are the live Projects  Which I did during my Internship period  and some which i did myself for my interest where I applied machine learning 
+algorithms or models like Random Forest, Logistic Regression, Support vector machine etc.. and deep learning models like LSTM, CNN, RNN etc.. for predictions.
 
 
 
